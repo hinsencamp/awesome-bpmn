@@ -179,7 +179,8 @@ Migrate process knowledge out of non-standard tools and into BPMN 2.0.
 
 ### Courses
 
-- [The Complete BPMN 2.0 Modeling Course](https://www.udemy.com/course/the-complete-bpmn-modeling-course/) - Most popular BPMN course on Udemy (40,000+ students). Also on [Coursera](https://www.coursera.org/).
+- [The Practical & Complete BPMN 2.0 Master Class](https://www.udemy.com/course/the-practical-and-complete-bpmn-20-master-class/?referralCode=2E792EE864792D9FF36C) - Most popular BPMN course on Udemy (40,000+ students). Covers all BPMN 2.0 elements with hands-on exercises. Also on [Coursera](https://www.coursera.org/).
+- [Advanced Process Modelling with BPMN 2.0](https://www.udemy.com/course/advanced-process-modelling-with-bpmn-20/?referralCode=6AAFF7E3B15B3421BB25) - Deep dive into advanced BPMN patterns: complex gateways, event-driven processes, compensation, and choreography diagrams.
 - [BPMN Meets DMN (openHPI)](https://open.hpi.de/courses/bpm2016) - Free course on BPMN and DMN by Prof. Mathias Weske.
 - [Fundamentals of BPM (MOOC)](http://fundamentals-of-bpm.org/mooc/) - Academic course based on the Dumas et al. textbook.
 
