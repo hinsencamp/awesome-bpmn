@@ -24,6 +24,7 @@ Contributions welcome! Open a PR or create an issue.
   - [Python](#python)
   - [.NET](#net)
   - [Go](#go)
+- [Developer Tooling](#developer-tooling)
 - [AI + BPMN](#ai--bpmn)
 - [Process Mining & Analytics](#process-mining--analytics)
 - [Converters & Migration](#converters--migration)
@@ -125,6 +126,14 @@ General-purpose diagramming tools that offer BPMN shape libraries. Useful for qu
 ### Go
 
 - [Temporal](https://temporal.io/) ([GitHub](https://github.com/temporalio/temporal)) - Microservice orchestration platform. Not BPMN-native but widely used for durable workflow execution.
+
+---
+
+## Developer Tooling
+
+Tools that help developers work cleanly and efficiently with BPMN in their codebases — beyond modeling and execution.
+
+- [bpmn-to-code](https://github.com/emaarco/bpmn-to-code) - Gradle/Maven plugin suite for BPMN-driven Java/Kotlin development. Generates type-safe Process APIs from BPMN models and provides ArchUnit-style validation for enforcing technical model rules. Supports Camunda 7, Zeebe, and Operaton.
 
 ---
 
