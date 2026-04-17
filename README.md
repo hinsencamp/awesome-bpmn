@@ -57,6 +57,7 @@ General-purpose diagramming tools that offer BPMN shape libraries. Useful for qu
 - [Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software) - Professional diagramming with BPMN 2.0 stencils and XML export.
 - [Visual Paradigm](https://www.visual-paradigm.com/) - Full-featured modeling tool supporting BPMN, UML, and ArchiMate.
 - [Enterprise Architect](http://www.sparxsystems.com.au/platforms/business_process_modeling.html) - UML/BPMN modeling suite from Sparx Systems.
+- [BPMN VS Code Modeler](https://github.com/Miragon/bpmn-vscode-modeler) - VS Code extension for BPMN 2.0 and DMN modeling targeting Camunda 7 and Camunda 8. Backed by bpmn-js. Includes element templates, deployment, and multi-language UI.
 
 ## JavaScript / TypeScript Libraries
 
