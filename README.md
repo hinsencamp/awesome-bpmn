@@ -57,6 +57,7 @@ General-purpose diagramming tools that offer BPMN shape libraries. Useful for qu
 - [Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software) - Professional diagramming with BPMN 2.0 stencils and XML export.
 - [Visual Paradigm](https://www.visual-paradigm.com/) - Full-featured modeling tool supporting BPMN, UML, and ArchiMate.
 - [Enterprise Architect](http://www.sparxsystems.com.au/platforms/business_process_modeling.html) - UML/BPMN modeling suite from Sparx Systems.
+- [BESSER](https://editor.besser-pearl.org/)⭐180 - Free, open-source and web-based editor for [BPMN 2.0](https://besser.readthedocs.io/en/latest/buml_language/model_types/bpmn.html) with XML import/export (as well as support for [UML and more](https://besser.readthedocs.io/en/latest/buml_language/model_types.html)). 
 
 ## JavaScript / TypeScript Libraries
 
