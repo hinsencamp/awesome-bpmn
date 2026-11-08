@@ -144,6 +144,7 @@ Discover actual process flows from system event logs. Complements BPMN modeling 
 
 - [Celonis](https://www.celonis.com/) - Market-leading process mining and execution management platform.
 - [Disco](https://fluxicon.com/disco/) - Fast desktop process mining tool by Fluxicon.
+- [ProcessMind](https://processmind.com/) - Browser-based platform combining process mining, BPMN 2.0 modeling, and what-if simulation, with a free tier.
 - [ProM Tools](http://www.promtools.org/doku.php) - Academic process mining framework with the largest collection of algorithms.
 - [bpmn-visualization-js](https://github.com/process-analytics/bpmn-visualization-js) ⭐280 - Overlay execution heatmaps and KPIs on BPMN diagrams in the browser.
 
